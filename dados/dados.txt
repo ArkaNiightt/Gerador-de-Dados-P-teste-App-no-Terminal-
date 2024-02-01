@@ -1,0 +1,18 @@
+--------------------
+Nome: Joao
+Email: ana@email.com
+Telefone: (123) 456-7890
+Cidade: Nova York
+Estado: Rio de Janeiro
+--------------------
+Nome: Joao
+Email: ana@email.com
+Telefone: (123) 456-7890
+Cidade: Londres
+Estado: Califórnia
+--------------------
+Nome: Matheus
+Email: carlos@email.com
+Telefone: (555) 123-4567
+Cidade: Resende
+Estado: Rio de Janeiro
